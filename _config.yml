@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "brj0ta"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "OSCP &#124; GXPN &#124; GREM"
-  bio              : "GPEN &#124; Sec+"
+  bio              : "OSCP &#124; GXPN &#124; GREM\
+                      GPEN &#124; Sec+"
   location         : "USA"
   email            :
   links:
