@@ -95,3 +95,5 @@ tags:
   - There is an /r/oscp, but the community is better on discord
   - Make a plan and stick to it. I bought 90 days of lab time but didn't need it all. I decided I wanted to spend 30-40 hours a week in the lab, on top of a full time job. Some weeks I was in the lab as little as 32 hours and as many as 64 hours, one Saturday I was in the lab for 16 hours! Most weekends were 8+ hours, twice I rooted 4 boxes in a day, in total I spent 392 hours in the lab
   - From the very first box you go after, get in the habit of documenting the commands you ran, take screenshots of them and the output (unless they're not on the path to root), screenshotting your proof, etc. Don't wait until the exam to start this habbit
+  
+  [Useful tools, scripts, and goodies I assembled while in the PWK labs](https://github.com/brjota/Courses/tree/master/OSCP)
