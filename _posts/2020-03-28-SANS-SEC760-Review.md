@@ -42,4 +42,4 @@ The last topic to be covered was Use-after-Free (UAF). First, we had a walkthrou
 #### Day 6: Capture the Flag
 The CTF had maybe 3 questions from the SEC660 CTF, I brought the hashes, but they weren’t worth many points. The CTF was a ton of fun and the team of 4 I was on all came away with coins, along with the top scoring individual not on our team. The CTF focused heavily on days 1, 2, 4, 5, and some SEC660 topics. My team was formed with 3 people who were pretty good with IDA (much better than me) and REing experience. We grabbed the lead right out of the gate and held it the entire time. 
 
-![SEC760 Coin](https://github.com/brjota/brjota.github.io/tree/master/assets/images/sec760_coin.png)
+![SEC760 Coin](https://github.com/brjota/brjota.github.io/tree/master/assets/images/sec760_coin.png?raw=true)
