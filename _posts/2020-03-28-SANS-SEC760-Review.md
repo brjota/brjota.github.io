@@ -46,13 +46,13 @@ Symbols. Our instructor said the most annoying part of the day is dealing with s
 Anyways this day was ALL about the windows kernel. The day began with covering user-mode vs. kernel-mode, windows subsystem, common dlls and functions, system service dispatcher, HAL, and Kernel Pool memory. Next up was exploit mitigation developments for windows 8-10. Finally, we got to debugging with Windbg, since Olly and Immunity are Ring 3 debuggers and Windbg allows visibility into Ring 0. The first dozen pages or so covered navigation around Windbg’s interface, and then we jumped into 2 exercises. The first exercise was getting remote debugging set up, just go with VirtuaKD and save yourself some hassle. The next lab was split into two; the first part was diffing (same idea as day3) a patch for a kernel driver, the second part was debugging the vulnerability and exploiting it. Next up was Kernel attack techniques, these mostly involved HAL and access tokens. Finally, was a lecture and lab covering a vulnerability where input from user-mode was passed to the kernel driver
 
 
-#### Day 5: Advanced Windows Exploitation
+### Day 5: Advanced Windows Exploitation
 The last day of lectures covered Advanced Windows Exploitation and involved LOTS of Windbg. The first section covered the early days; pre and post XP SP2/2003. We then jumped into topics covering modern heap exploitation from Windows Vista/8 and onwards. Next was a demo of heap spraying, specifically DOM Element Property Spray (DOMS), to exploit an Internet Explorer vulnerability. 
 
 The last topic to be covered was Use-after-Free (UAF). First, we had a walkthrough, it was long…like VERY long. The instructor would let us work our way through the book, stopping us every 30 minutes or so to cover what we went over. After the walkthrough (50+ pages) was a follow up exercise of creating an exploit for the vulnerability. Finally, the day ended in an IE11 vulnerability which allowed full ASLR bypass when all modules were rebased, I did not finish this exercise in the class but did later on at home.
 
 
-#### Day 6: Capture the Flag
+### Day 6: Capture the Flag
 The CTF had maybe 3 questions from the SEC660 CTF, I brought the hashes, but they weren’t worth many points. The CTF was a ton of fun and the team of 4 I was on all came away with coins, along with the top scoring individual not on our team. The CTF focused heavily on days 1, 2, 4, 5, and some SEC660 topics. My team was formed with 3 people who were pretty good with IDA (much better than me) and REing experience. We grabbed the lead right out of the gate and held it the entire time. 
 
 ![](/assets/images/sans/sec760_ctf.png) ![](/assets/images/sans/sec760_coin.png)
