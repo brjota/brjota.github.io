@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SANS SEC760 Review
+title: SANS SEC760 - Advanced Exploit Development for Penetration Testers Review
 date: 2020-03-28
 classes: wide
 tags:
@@ -9,7 +9,6 @@ tags:
   - SEC
 ---
 
-# SANS SEC760 - Advanced Exploit Development for Penetration Testers
 
 Wow! This is a course I’ve been wanting to take since I took my first SANS course, SEC560, in March 2018. There don’t seem to be too many reviews for this course, so I hope to do some justice. Let’s dive in.
 

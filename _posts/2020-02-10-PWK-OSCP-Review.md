@@ -1,6 +1,6 @@
 ---
 layout: single
-title: PWK/OSCP Review
+title: Penetration Testing with Kali Linux & OSCP Certification Review
 date: 2020-02-10
 classes: wide
 tags:
@@ -8,8 +8,6 @@ tags:
   - OSCP
   - OffSec
 ---
-
-# Penetration Testing with Kali Linux & OSCP Certification
 
 ```
 54/54 lab boxes rooted, 4/5 exam hosts* 
@@ -85,7 +83,7 @@ tags:
    - The exam report was easy enough; I grabbed all the screenshots and commands that were needed while I was taking the test
 
 
-#### Take away:
+#### Take aways:
   - Use the discord group, it's way more active than the official forums. There is a strict zero tolerance policy towards cheating and you will get banned from it
   - Speaking of forums, use them! They are a resource, just like any blog/video/etc you find. If I was stuck on a lab box for 40+ minutes I'd go read a hint. If you're stuck and don't know where to look next, a hint which leads to rooting a box provides a better learning opportunity then never rooting it would
   - AutoRecon is great, but if you're not comfortable reading nmap/tool output it won't be useful
